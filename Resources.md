@@ -3,6 +3,10 @@
 ## Overview
 - Deep Learning
   [[**PDF**]](https://www.researchgate.net/publication/277411157_Deep_Learning)
+- Deep Learning in Neural Networks: An Overview
+  [[**PDF**]](https://arxiv.org/pdf/1404.7828.pdf)
+- Deep Learning(Ian Goodfellow and Yoshua Bengio and Aaron Courville)
+  [[**PDF**]](https://www.deeplearningbook.org/)
 
 ## Image Classification
 
@@ -34,11 +38,11 @@
 - FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction
   [[**PDF**]](https://arxiv.org/pdf/1901.03495.pdf)
 
-## Understanding Deep Learning
+### Understanding Deep Learning
 - Understanding deep learning requires rethinking generalization
   [[**PDF**]](https://arxiv.org/pdf/1611.03530.pdf)
 
-## Training of Deep Neural Network
+### Tricks of Training
 - Bag of Tricks for Image Classification with Convolutional Neural Networks
   [[**PDF**]](https://arxiv.org/pdf/1812.01187.pdf)
 

@@ -53,19 +53,19 @@
 
 ### One Stage
 - SSD: Single Shot MultiBox Detector
-  [[**PDF**]](https://arxiv.org/abs/1512.02325)
+  [[**PDF**]](https://arxiv.org/pdf/1512.02325.pdf)
 - DSSD : Deconvolutional Single Shot Detector
-  [[**PDF**]](https://arxiv.org/abs/1512.02325)
+  [[**PDF**]](https://arxiv.org/pdf/1701.06659.pdf)
 - Feature Pyramid Networks for Object Detection
-  [[**PDF**]](https://arxiv.org/abs/1612.03144)
+  [[**PDF**]](https://arxiv.org/pdf/1612.03144.pdf)
 - Receptive Field Block Net for Accurate and Fast Object Detection
   [[**PDF**]](https://arxiv.org/pdf/1711.07767.pdf)
 - You Only Look Once: Unified, Real-Time Object Detection
   [[**PDF**]](https://arxiv.org/pdf/1506.02640.pdf)
 - YOLO9000: Better, Faster, Stronger
-  [[**PDF**]](https://arxiv.org/abs/1612.08242)
+  [[**PDF**]](https://arxiv.org/pdf/1612.08242.pdf)
 - YOLOv3: An Incremental Improvement
-  [[**PDF**]](https://arxiv.org/abs/1612.08242)
+  [[**PDF**]](https://arxiv.org/pdf/1804.02767.pdf)
 - Feature Selective Anchor-Free Module for Single-Shot Object Detection
   [[**PDF**]](https://arxiv.org/pdf/1903.00621.pdf)
 

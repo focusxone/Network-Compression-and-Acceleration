@@ -47,8 +47,14 @@
   [[**PDF**]](https://arxiv.org/pdf/1812.01187.pdf)
 
 ## Object Detection
+### Overview
+- Deep Learning for Generic Object Detection: A Survey
+  [[**PDF**]](https://arxiv.org/pdf/1809.02165.pdf)
+
 ### One Stage
 - SSD: Single Shot MultiBox Detector
+  [[**PDF**]](https://arxiv.org/abs/1512.02325)
+- DSSD : Deconvolutional Single Shot Detector
   [[**PDF**]](https://arxiv.org/abs/1512.02325)
 - Feature Pyramid Networks for Object Detection
   [[**PDF**]](https://arxiv.org/abs/1612.03144)
@@ -60,17 +66,33 @@
   [[**PDF**]](https://arxiv.org/abs/1612.08242)
 - YOLOv3: An Incremental Improvement
   [[**PDF**]](https://arxiv.org/abs/1612.08242)
+- Feature Selective Anchor-Free Module for Single-Shot Object Detection
+  [[**PDF**]](https://arxiv.org/pdf/1903.00621.pdf)
 
 ### Two Stage
+- Rich feature hierarchies for accurate object detection and semantic segmentation
+  [[**PDF**]](https://arxiv.org/pdf/1311.2524.pdf)
+- Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+  [[**PDF**]](https://arxiv.org/pdf/1406.4729.pdf)
+- Fast R-CNN
+  [[**PDF**]](https://arxiv.org/pdf/1504.08083.pdf)
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
   [[**PDF**]](https://arxiv.org/pdf/1506.01497.pdf)
-- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
-  [[**PDF**]](https://arxiv.org/pdf/1506.01497.pdf)
-
-### Other
-- Focal Loss for Dense Object Detection
-  [[**PDF**]](https://arxiv.org/pdf/1708.02002.pdf)
+- R-FCN: Object Detection via Region-based Fully Convolutional Networks
+  [[**PDF**]](https://arxiv.org/pdf/1605.06409.pdf)
 - Mask R-CNN
   [[**PDF**]](https://arxiv.org/pdf/1703.06870.pdf)
-
+- Focal Loss for Dense Object Detection
+  [[**PDF**]](https://arxiv.org/pdf/1708.02002.pdf)
+- SNIPER: Efficient Multi-Scale Training
+  [[**PDF**]](https://arxiv.org/pdf/1805.09300.pdf)
+- RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+  [[**PDF**]](https://arxiv.org/pdf/1805.09300.pdf)
  
+### Other
+- CornerNet: Detecting Objects as Paired Keypoints
+  [[**PDF**]](https://arxiv.org/pdf/1808.01244.pdf)
+- Objects as Points
+  [[**PDF**]](https://arxiv.org/pdf/1904.07850.pdf)
+- Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression
+  [[**PDF**]](https://arxiv.org/pdf/1902.09630.pdf)

@@ -87,7 +87,7 @@
 - SNIPER: Efficient Multi-Scale Training
   [[**PDF**]](https://arxiv.org/pdf/1805.09300.pdf)
 - RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
-  [[**PDF**]](https://arxiv.org/pdf/1805.09300.pdf)
+  [[**PDF**]](https://arxiv.org/pdf/1611.06612.pdf)
  
 ### Other
 - CornerNet: Detecting Objects as Paired Keypoints

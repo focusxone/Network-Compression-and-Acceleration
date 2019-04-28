@@ -96,3 +96,7 @@
   [[**PDF**]](https://arxiv.org/pdf/1904.07850.pdf)
 - Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression
   [[**PDF**]](https://arxiv.org/pdf/1902.09630.pdf)
+
+### Bag of Freebies for Training Object Detection Neural Networks
+- Bag of Tricks for Image Classification with Convolutional Neural Networks
+  [[**PDF**]](https://arxiv.org/pdf/1902.04103.pdf)

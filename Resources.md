@@ -29,8 +29,12 @@
   [[**PDF**]](https://arxiv.org/pdf/1602.07261.pdf)
 - Xception: Deep Learning with Depthwise Separable Convolutions 
   [[**PDF**]](https://arxiv.org/pdf/1610.02357.pdf)
+- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+  [[**PDF**]](https://arxiv.org/pdf/1704.04861.pdf)
 - MobileNetV2: Inverted Residuals and Linear Bottlenecks
   [[**PDF**]](https://arxiv.org/pdf/1801.04381.pdf)
+- Searching for MobileNetV3
+  [[**PDF**]](https://arxiv.org/pdf/1905.02244.pdf)
 - Squeeze-and-Excitation Networks
   [[**PDF**]](https://arxiv.org/pdf/1709.01507.pdf)
 - Selective Kernel Networks
@@ -98,5 +102,19 @@
   [[**PDF**]](https://arxiv.org/pdf/1902.09630.pdf)
 
 ### Bag of Freebies for Training Object Detection Neural Networks
-- Bag of Tricks for Image Classification with Convolutional Neural Networks
+- Bag of Freebies for Training Object Detection Neural Networks
   [[**PDF**]](https://arxiv.org/pdf/1902.04103.pdf)
+
+## Machine Learning
+- XGBoost: A Scalable Tree Boosting System
+  [[**PDF**]](https://arxiv.org/pdf/1603.02754.pdf)
+
+- Neural Architecture Search: A Survey
+  [[**PDF**]](https://arxiv.org/pdf/1808.05377.pdf)
+- Neural Architecture Search with Reinforcement Learning
+  [[**PDF**]](https://arxiv.org/pdf/1611.01578.pdf)
+  
+- A Comprehensive Survey on Graph Neural Networks
+  [[**PDF**]](https://arxiv.org/pdf/1901.00596.pdf)
+  
+  

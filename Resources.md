@@ -25,22 +25,36 @@
   [[**PDF**]](https://arxiv.org/pdf/1512.03385.pdf)
 - Identity Mappings in Deep Residual Networks
   [[**PDF**]](https://arxiv.org/pdf/1603.05027.pdf)
+- Aggregated Residual Transformations for Deep Neural Networks
+  [[**PDF**]](https://arxiv.org/pdf/1611.05431.pdf)
 - Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
   [[**PDF**]](https://arxiv.org/pdf/1602.07261.pdf)
-- Xception: Deep Learning with Depthwise Separable Convolutions 
-  [[**PDF**]](https://arxiv.org/pdf/1610.02357.pdf)
-- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
-  [[**PDF**]](https://arxiv.org/pdf/1704.04861.pdf)
-- MobileNetV2: Inverted Residuals and Linear Bottlenecks
-  [[**PDF**]](https://arxiv.org/pdf/1801.04381.pdf)
-- Searching for MobileNetV3
-  [[**PDF**]](https://arxiv.org/pdf/1905.02244.pdf)
 - Squeeze-and-Excitation Networks
   [[**PDF**]](https://arxiv.org/pdf/1709.01507.pdf)
 - Selective Kernel Networks
   [[**PDF**]](https://arxiv.org/pdf/1903.06586.pdf)
 - FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction
   [[**PDF**]](https://arxiv.org/pdf/1901.03495.pdf)
+
+- Xception: Deep Learning with Depthwise Separable Convolutions 
+  [[**PDF**]](https://arxiv.org/pdf/1610.02357.pdf)
+- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+  [[**PDF**]](https://arxiv.org/pdf/1704.04861.pdf)
+- MobileNetV2: Inverted Residuals and Linear Bottlenecks
+  [[**PDF**]](https://arxiv.org/pdf/1801.04381.pdf)
+- MnasNet: Platform-Aware Neural Architecture Search for Mobile
+  [[**PDF**]](https://arxiv.org/pdf/1807.11626.pdf)
+- Searching for MobileNetV3
+  [[**PDF**]](https://arxiv.org/pdf/1905.02244.pdf)
+- ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+  [[**PDF**]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_ShuffleNet_An_Extremely_CVPR_2018_paper.pdf)
+- ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+  [[**PDF**]](https://arxiv.org/pdf/1807.11164.pdf)
+- EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+  [[**PDF**]](https://arxiv.org/pdf/1905.11946.pdf)
+- SqueezeNet: AlexNet-Level Accuracy with 50X Fewer Parameters and <0.5MB Model Size
+  [[**PDF**]](https://arxiv.org/pdf/1602.07360.pdf)
+
 
 ### Understanding Deep Learning
 - Understanding deep learning requires rethinking generalization

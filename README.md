@@ -17,4 +17,5 @@ Collect useful resources, including papers, blogs, and codes, for compression an
       ([code](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/model_pruning))
 - [ ] [Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519)
       ([code](https://github.com/liuzhuang13/slimming))
+- [ ] [Pruning Convolutional Neural Networks for Efficient Inference](https://arxiv.org/pdf/1611.06440.pdf)
       

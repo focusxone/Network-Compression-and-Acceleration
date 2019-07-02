@@ -55,6 +55,9 @@
 - SqueezeNet: AlexNet-Level Accuracy with 50X Fewer Parameters and <0.5MB Model Size
   [[**PDF**]](https://arxiv.org/pdf/1602.07360.pdf)
 
+- Dual Path Networks
+  [[**PDF**]](https://arxiv.org/pdf/1707.01629.pdf)
+
 
 ### Understanding Deep Learning
 - Understanding deep learning requires rethinking generalization

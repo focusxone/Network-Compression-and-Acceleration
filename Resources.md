@@ -58,6 +58,11 @@
 - Dual Path Networks
   [[**PDF**]](https://arxiv.org/pdf/1707.01629.pdf)
 
+- Deep High-Resolution Representation Learning for Human Pose Estimation
+  [[**PDF**]](https://arxiv.org/pdf/1902.09212.pdf)
+- High-Resolution Representations for Labeling Pixels and Regions
+  [[**PDF**]](https://arxiv.org/pdf/1904.04514.pdf)
+
 
 ### Understanding Deep Learning
 - Understanding deep learning requires rethinking generalization
